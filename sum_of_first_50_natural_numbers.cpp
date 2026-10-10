@@ -10,5 +10,8 @@ int main() {
 		sum += i;
 	}
 	cout << "sum of first 50 natural numbers are : " << sum << endl;
+	int n=50;
+	int sum_using_formula=n*(n+1)/2;
+	cout<<"sum using formula is : "<<sum_using_formula<<endl;
 	return 0;
 }
