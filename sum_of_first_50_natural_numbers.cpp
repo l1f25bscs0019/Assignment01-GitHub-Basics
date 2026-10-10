@@ -1,3 +1,7 @@
+//Program: Sum of First 50 Natural Numbers
+//Name: JANNAT WAQAS
+//Registration Number: L1F25BSCS0019
+//Assignment: Assignment 01
 #include<iostream>
 using namespace std;
 int main() {
